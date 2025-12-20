@@ -87,7 +87,7 @@ Tekan **Ctrl + C** (akan keluar dengan rapi)
 ## ⚠️ Jika Tetap Ingin Pakai tx_V1.py
 Ganti fixed address di baris berikut:
 ```python
-fixed = "0x222306e34a54455aa10c215b26aaad3d6037dbf8"
+fixed = "0x222306e34a54455aa10c215b26aaad3d6037dbf7"
 ```
 Menjadi:
 ```python
